@@ -19,6 +19,7 @@ mindmap
       Learning
       Projects
       Snippets
+      ("Git Handler")
     Management
       Productivity
       Leadership
