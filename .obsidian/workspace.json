@@ -11,10 +11,14 @@
             "id": "8d5afb0b0895c5aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Life-Systems/01-Fitness/Sections/Fitness Coaching/2025-11-07 - Upper Body Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-07 - Upper Body Session"
             }
           }
         ]
@@ -164,14 +168,31 @@
   },
   "active": "8d5afb0b0895c5aa",
   "lastOpenFiles": [
+    "Life-Systems/01-Fitness/Sections/Swimming Focus/2025-11-07 - Swim Session.md",
+    "Life-Systems/01-Fitness/Sections/Fitness Coaching/2025-11-07 - Upper Body Session.md",
+    "Life-Systems/02-Finance/Finance Daily Ledger.md",
+    "Life-Systems/02-Finance/Budget Snapshot - 2025-11.md",
+    "Life-Systems/02-Finance/Finance.md",
+    "Life-Systems/02-Finance/Blackrock Finance Agent.md",
+    "Life-Systems/01-Fitness/Fitness.md",
+    "Life-Systems/01-Fitness/Sections/Swimming Focus",
+    "Life-Systems/01-Fitness/Sections/Fitness Coaching",
+    "Life-Systems/01-Fitness/Sections/Fitness Coaching.md",
+    "Life-Systems/01-Fitness/Sections/Swimming Focus.md",
+    "Life-Systems/01-Fitness/Superman Fitness Agent.md",
+    "Life-Systems/01-Fitness/Sections",
+    "Life-Systems/01-Fitness/Fitness Metrics Snapshot.md",
+    "Life-Systems/01-Fitness/Templates/Superman Swim Log Template.md",
+    "Life-Systems/01-Fitness/Logs/2025-11-05 - Swim Log.md",
+    "Life-Systems/01-Fitness/Superman Trainer Agent.md",
+    "Life-Systems/01-Fitness/Templates",
+    "Life-Systems/01-Fitness/Logs",
     "Life-Systems/Life Systems Hub.md",
     "Life-Systems/03-Ideas/Journal/2025-11-05 - Jarvis Idea Journal.md",
     "Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template.md",
     "Life-Systems/03-Ideas/Jarvis Agent.md",
     "Life-Systems/03-Ideas/Journal",
-    "Life-Systems/02-Finance/Finance.md",
     "Life-Systems/Life Systems.md",
-    "Life-Systems/01-Fitness/Fitness.md",
     "AGENTS.md",
     "Life-Systems/05-Management/Management.md",
     "Life-Systems/04-Coding/Coding.md",
@@ -180,26 +201,9 @@
     "Life-Systems/04-Coding",
     "Life-Systems/03-Ideas",
     "Life-Systems/02-Finance",
-    "Life-Systems/01-Fitness",
-    "Life-Systems",
     "Untitled.canvas",
     "Life-Systems/01-Fitness/02-Nutrition/Nutrition Playbooks.md",
     "Life-Systems/01-Fitness/01-Training/Training Plans.md",
-    "Life-Systems/structure-map.md",
-    "Life-Systems/Life Systems Index.md",
-    "Life-Systems/05-Management/03-Operations/Operations Desk.md",
-    "Life-Systems/05-Management/02-Leadership/Leadership Notes.md",
-    "Life-Systems/05-Management/01-Productivity/Productivity Systems.md",
-    "Life-Systems/05-Management/Management Ops.md",
-    "Life-Systems/04-Coding/03-Snippets/Snippet Library.md",
-    "Life-Systems/04-Coding/02-Projects/Project Hub.md",
-    "Life-Systems/04-Coding/01-Learning/Learning Paths.md",
-    "Life-Systems/04-Coding/Coding Lab.md",
-    "Life-Systems/03-Ideas/03-Experiments/Experiment Log.md",
-    "Life-Systems/03-Ideas/02-Research/Research Lab.md",
-    "Life-Systems/03-Ideas/01-Idea-Bank/Idea Bank.md",
-    "Life-Systems/05-Management/03-Operations",
-    "Life-Systems/05-Management/02-Leadership",
-    "Life-Systems/05-Management/01-Productivity"
+    "Life-Systems/structure-map.md"
   ]
 }
