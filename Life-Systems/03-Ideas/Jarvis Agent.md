@@ -24,7 +24,7 @@ Generate, refine, and prioritise daily ideas that are feasible, scalable, and wo
 4. **Next-Step Blueprint** – Output a 1–2 step experiment plan with success metrics and a follow-up reminder.
 
 ## Daily Journal Routine
-1. Duplicate the [[Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template|Jarvis Idea Journal Template]] into `Life-Systems/03-Ideas/Journal` with today’s date (`YYYY-MM-DD - Jarvis Idea Journal`).
+1. Duplicate either the [[Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template|Idea Journal Template]] for captures or the [[Life-Systems/03-Ideas/Journal/Jarvis Daily Idea Template|Jarvis Daily Idea Template]] for daily business concepts.
 2. Fill the **Observations & Sparks** section with raw notes from the field.
 3. Prompt Jarvis: “Jarvis, run the Daily Idea Sprint using today’s observations (paste bullet list).”
 4. Paste Jarvis’s response into **Jarvis Synthesis**, editing for clarity.
