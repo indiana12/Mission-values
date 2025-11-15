@@ -47,6 +47,13 @@ tags:
 | --- | --- | --- | --- |
 |  |  |  |  |
 
+## Opportunity Matrix
+| Opportunity Type | Description | Adjacent Markets | Readiness |
+| --- | --- | --- | --- |
+| Core |  |  |  |
+| Adjacent |  |  |  |
+| Moonshot |  |  |  |
+
 ## Market & Population Metrics
 - TAM / SAM (India):
 - Metro opportunity (top cities & estimated user count):
@@ -75,6 +82,20 @@ tags:
 | Revenue streams |  | Subscription, pay-per-use, B2B lease |
 | Gross margin target |  |  |
 | Breakeven point |  | Subscribers / months |
+
+## Sustainability & ESG Levers
+- Environmental impact (energy, materials, waste):
+- Social impact (employment, inclusion, affordability):
+- Governance / compliance considerations:
+- Measurement plan (KPIs, reporting cadence):
+
+## Scalability Map
+| Lever | Automation/Tech | Partnership Angle | 10× Path |
+| --- | --- | --- | --- |
+| Process |  |  |  |
+| Product |  |  |  |
+| Distribution |  |  |  |
+| Capital |  |  |  |
 
 ## Execution Steps
 1. 

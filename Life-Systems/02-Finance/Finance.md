@@ -19,7 +19,7 @@ Provide a single source of truth for cash management, investing moves, and long-
 - `Finance - Monthly Budget`
 - `Finance - Investing Playbook`
 - `Finance - Planning Checklist`
-- [[Life-Systems/02-Finance/Budget Snapshot - 2025-11|Budget Snapshot — Nov 2025]]
+- [[Life-Systems/02-Finance/Budget Analysis - 2025-11-11|Budget Analysis — 11 Nov 2025]]
 - [[Life-Systems/02-Finance/Blackrock Finance Agent|Blackrock Finance Agent]]
 - [[Life-Systems/02-Finance/Finance Daily Ledger|Finance Daily Ledger]]
 

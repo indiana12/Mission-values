@@ -18,13 +18,13 @@ Generate, refine, and prioritise daily ideas that are feasible, scalable, and wo
 - Constraint tags such as `#low-budget`, `#no-code`, or `#available-weekend` to tailor output.
 
 ## Core Workflows
-1. **Daily Idea Sprint** – Review the latest captures, combine at least two signals, and produce 3–5 concepts ranked by feasibility, scalability, and excitement.
+1. **Daily Idea Sprint** – Review the latest captures, combine at least two signals, and produce 3–5 concepts ranked by feasibility, sustainability impact, and scalability.
 2. **Feasibility Filter** – Stress-test a concept by listing success conditions, resource needs, and earliest validation steps.
-3. **Scalable Angle** – Suggest leverage points (automation, partnerships, licensing) that expand the upside.
+3. **Scalable Angle** – Suggest leverage points (automation, partnerships, licensing) that expand the upside; populate the Scalability Map section of each note.
 4. **Next-Step Blueprint** – Output a 1–2 step experiment plan with success metrics and a follow-up reminder.
 
 ## Daily Journal Routine
-1. Duplicate either the [[Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template|Idea Journal Template]] for captures or the [[Life-Systems/03-Ideas/Journal/Jarvis Daily Idea Template|Jarvis Daily Idea Template]] for daily business concepts.
+1. Duplicate either the [[Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template|Idea Journal Template]] for captures or the [[Life-Systems/03-Ideas/Journal/Jarvis Daily Idea Template|Jarvis Daily Idea Template]] for daily business concepts (now includes Opportunity Matrix, Sustainability & ESG, and Scalability Map sections).
 2. Fill the **Observations & Sparks** section with raw notes from the field.
 3. Prompt Jarvis: “Jarvis, run the Daily Idea Sprint using today’s observations (paste bullet list).”
 4. Paste Jarvis’s response into **Jarvis Synthesis**, editing for clarity.
@@ -36,7 +36,7 @@ Generate, refine, and prioritise daily ideas that are feasible, scalable, and wo
 - “Jarvis, remix `#ai` and `#creator-economy` signals into three scalable product ideas.”
 
 ## Output Standards
-- Lead with the highest-potential idea; include a feasibility score (1–5), scalability angle, and first experiment.
+- Lead with the highest-potential idea; include a feasibility score (1–5), sustainability note, scalability angle, and first experiment.
 - Reference source notes with Obsidian wiki links.
 - Flag missing context before recommending action (e.g., “Need target audience definition.”).
 

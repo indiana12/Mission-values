@@ -13,6 +13,7 @@ This hub anchors every domain that keeps life in balance. Start here to jump to 
 - [[Life-Systems/03-Ideas/Ideas|Ideas]] — capture, research, and incubate new concepts.
 - [[Life-Systems/04-Coding/Coding|Coding]] — learning, building, and shipping software work.
 - [[Life-Systems/05-Management/Management|Management]] — productivity, leadership, and operations.
+- [[Life-Systems/06-Books/Books|Books & Knowledge]] — reading strategy, summaries, and discussions with Chris.
 
 ## Graph Colour Setup
 Assign a distinct colour to each `life/*` tag in Obsidian’s graph view:

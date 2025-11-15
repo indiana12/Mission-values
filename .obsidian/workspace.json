@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life-Systems/03-Ideas/Journal/2025-11-09 - Jarvis Daily Idea.md",
+                "file": "Life-Systems/03-Ideas/Journal/2025-11-15 - Jarvis Daily Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-09 - Jarvis Daily Idea"
+              "title": "2025-11-15 - Jarvis Daily Idea"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "d0cb8f87482e8967",
@@ -168,42 +168,42 @@
   },
   "active": "8d5afb0b0895c5aa",
   "lastOpenFiles": [
-    "Life-Systems/03-Ideas/Journal/Jarvis Idea Journal Template.md",
-    "Life-Systems/03-Ideas/Journal/Jarvis Daily Idea Template.md",
-    "Life-Systems/03-Ideas/Journal/2025-11-05 - Jarvis Idea Journal.md",
+    "Life-Systems/06-Books/Psychology of Money Journal.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-15 - Jarvis Daily Idea.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-12 - Jarvis Daily Idea.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-11 - Mushroom Farming Supplement.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-11 - Jarvis Daily Idea.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-10 - Jarvis Daily Idea.md",
     "Life-Systems/03-Ideas/Journal/2025-11-09 - Jarvis Daily Idea.md",
-    "Life-Systems/03-Ideas/Ideas.md",
-    "Life-Systems/01-Fitness/Sections/Fitness Coaching/2025-11-07 - Upper Body Session.md",
-    "Life-Systems/01-Fitness/Sections/Swimming Focus/2025-11-07 - Swim Session.md",
-    "Life-Systems/02-Finance/Finance Daily Ledger.md",
+    "Life-Systems/03-Ideas/Journal/2025-11-13 - Jarvis Daily Idea.md",
+    "Life-Systems/06-Books/Atomic Habits Journal.md",
+    "Life-Systems/06-Books/Chris Agent.md",
+    "Life-Systems/06-Books/Books.md",
+    "Life-Systems/02-Finance/Budget Plan - Dec 2025.md",
+    "Life-Systems/02-Finance/Budget Analysis - 2025-11-11.md",
+    "Life-Systems/06-Books",
+    "Life-Systems/02-Finance/Budget Analysis Framework.md",
+    "Life-Systems/02-Finance/Budget Plan - Nov 2025.md",
+    "Life-Systems/02-Finance/Budget Snapshot - 2025-11b.md",
+    "Life-Systems/02-Finance/Budget Summary - 2025-11.md",
     "Life-Systems/02-Finance/Budget Snapshot - 2025-11.md",
-    "Life-Systems/02-Finance/Finance.md",
-    "Life-Systems/02-Finance/Blackrock Finance Agent.md",
+    "Life-Systems/01-Fitness/Sections/Swimming Focus/2025-11-11 - Swim Session.md",
     "Life-Systems/01-Fitness/Fitness.md",
+    "Life-Systems/Life Systems Hub.md",
+    "Life-Systems/01-Fitness/Sections/Nutrition/2025-11-10 - Nutrition Log.md",
+    "Life-Systems/01-Fitness/Sections/Nutrition/Nutrition Daily Template.md",
+    "Life-Systems/01-Fitness/Sections/Nutrition/Nutrition Overview.md",
+    "Life-Systems/01-Fitness/Sections/Nutrition",
+    "Life-Systems/01-Fitness/Sections/Fitness Coaching/2025-11-10 - Push Session.md",
+    "Life-Systems/01-Fitness/Sections/Fitness Coaching/2025-11-11 - Push Session.md",
     "Life-Systems/01-Fitness/Sections/Swimming Focus",
     "Life-Systems/01-Fitness/Sections/Fitness Coaching",
-    "Life-Systems/01-Fitness/Sections/Fitness Coaching.md",
-    "Life-Systems/01-Fitness/Sections/Swimming Focus.md",
-    "Life-Systems/01-Fitness/Superman Fitness Agent.md",
     "Life-Systems/01-Fitness/Sections",
-    "Life-Systems/01-Fitness/Fitness Metrics Snapshot.md",
-    "Life-Systems/01-Fitness/Templates/Superman Swim Log Template.md",
-    "Life-Systems/01-Fitness/Logs/2025-11-05 - Swim Log.md",
-    "Life-Systems/01-Fitness/Superman Trainer Agent.md",
     "Life-Systems/01-Fitness/Templates",
     "Life-Systems/01-Fitness/Logs",
-    "Life-Systems/Life Systems Hub.md",
-    "Life-Systems/03-Ideas/Jarvis Agent.md",
     "Life-Systems/03-Ideas/Journal",
-    "Life-Systems/Life Systems.md",
-    "AGENTS.md",
-    "Life-Systems/05-Management/Management.md",
-    "Life-Systems/04-Coding/Coding.md",
     "Life-Systems/05-Management",
     "Life-Systems/04-Coding",
-    "Life-Systems/03-Ideas",
-    "Life-Systems/02-Finance",
-    "Untitled.canvas",
-    "Life-Systems/01-Fitness/02-Nutrition/Nutrition Playbooks.md"
+    "Untitled.canvas"
   ]
 }

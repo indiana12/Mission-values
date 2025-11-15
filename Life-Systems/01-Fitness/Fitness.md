@@ -21,7 +21,9 @@ Keep movement, nutrition, and recovery aligned with current goals while tracking
 - `Fitness - Meal Playbook`
 - [[Life-Systems/01-Fitness/Fitness Metrics Snapshot|Fitness Metrics Snapshot]]
 - [[Life-Systems/01-Fitness/Superman Fitness Agent|Superman Fitness Agent]]
-- [[Life-Systems/01-Fitness/Sections/Fitness Coaching|Fitness Coaching]]
 - [[Life-Systems/01-Fitness/Sections/Swimming Focus|Swimming Focus]]
+- [[Life-Systems/01-Fitness/Sections/Nutrition/Nutrition Overview|Nutrition Overview]]
+
+> Strength workouts are tracked in Gravl AI. Use the Notes here to capture summaries or comparisons when needed.
 
 Add new notes inside this folder and keep the `life/fitness` tag in their front matter for consistent colouring in the graph.
