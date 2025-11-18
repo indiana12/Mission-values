@@ -72,6 +72,49 @@ mindmap
 - Diagnostic question when slipping: “How can I make the next action 1% easier or more obvious?”
 - Homework for Chapter 2: list identity statements for each domain (Athlete, Investor, Builder, Reader) before reading.
 
+### Key Ideas
+- Compounding favors the consistent technician, not the occasional hero.
+- Systems run the show; goals are merely coordinates.
+- Each habit vote shapes identity—track the votes, not just tasks.
+
+### Mindset Shift
+- From “Did I hit the goal?” to “Did I feed the system today?”
+
+### Tools & Exercises
+- 1% Win log in each Life System note; emoji-based tracker for quick review.
+- Evening “Trajectory Check” question pinned in Obsidian.
+
+### Habits to Add / Remove
+- Add: 5-minute reactor review each morning (scan Life Systems).
+- Remove: Waiting until end-of-week to log habits—log same day.
+
+### Quotes
+> “You do not rise to the level of your goals; you fall to the level of your systems.” — James Clear
+
+### Insights
+- Graph coloring trick keeps Obsidian links uncluttered and identity-aligned.
+
+### 30-Day Plan
+| Week | Focus | Proof |
+| --- | --- | --- |
+| 1 | Track 1% wins daily | Screenshot of tracker |
+| 2 | Run nightly Trajectory Check | Journal entries |
+| 3 | Adjust any habit missed twice | Note in Life Systems Hub |
+| 4 | Share learnings with agents | Recap bullet |
+
+### Weekly Tracker
+| Week | Systems fed? | Notes |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+
+### Review
+- Wins: Micro trackers installed inside Superman, Jarvis, Blackrock notes.
+- Gaps: Weekend logging still spotty; set Sunday reminder.
+- Carry-forward: Enter Chapter 2 with identity statements ready.
+
 ---
 
 ## Chapter 2 — How Your Habits Shape Your Identity
@@ -109,6 +152,50 @@ Chapter 2 hands you the identity switchboard for Mission Growth HQ. Every lever 
 - Identity check mantra: “Proof before perfection.” Two clean reps per domain keep confidence high.
 - When motivation dips, ask “Which identity hasn’t received a vote today?” Then give it the smallest action possible.
 - Next chapter prep: inventory cues, cravings, responses, rewards inside each Life System for the 4-step loop.
+
+### Key Ideas
+- Identity is both the engine and output of habit loops.
+- Small proofs trump grand declarations.
+- Language (“I’m the allocator…”) reinforces neural shortcuts.
+
+### Mindset Shift
+- From “I need motivation” to “Which identity needs a vote right now?”
+
+### Tools & Exercises
+- Identity Matrix table pinned in Superman/Blackrock/Jarvis notes.
+- Record short voice note stating identities each morning.
+
+### Habits to Add / Remove
+- Add: Post-transaction mantra “Allocator logged it.”
+- Remove: Negative self-talk when a bucket slips; replace with diagnostic question.
+
+### Quotes
+> “Every action you take is a vote for the type of person you wish to become.” — James Clear
+
+### Insights
+- Ledger tagging by identity exposes which Life System lacks attention on hectic days.
+- Reading identity statements before workouts improved consistency.
+
+### 30-Day Plan
+| Week | Identity Focus | Proof |
+| --- | --- | --- |
+| 1 | Athlete + Swimmer | Superman note ✅ entries |
+| 2 | Allocator | Ledger screenshot showing tags |
+| 3 | Builder (Jarvis) | Daily idea log streak |
+| 4 | Reader/Strategist | Chapter summaries logged |
+
+### Weekly Tracker
+| Week | Identities voted for | Notes |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+
+### Review
+- Wins: Morning identity audio kept energy high.
+- Friction: Evening voice log occasionally skipped—set reminder with wind-down routine.
+- Next: Prep cue/craving/response/reward map for Chapter 3.
 
 ---
 
@@ -165,3 +252,13 @@ Use this narrative when habits feel abstract; it shows exactly where each habit 
 - **Workflow Extracted**:
 - **Real-Time Action Plan**:
 - **Chris Notes**:
+- **Real-Time Narrative**:
+- **Key Ideas**:
+- **Mindset Shift**:
+- **Tools & Exercises**:
+- **Habits to Add / Remove**:
+- **Quotes**:
+- **Insights**:
+- **30-Day Plan**:
+- **Weekly Tracker**:
+- **Review**:

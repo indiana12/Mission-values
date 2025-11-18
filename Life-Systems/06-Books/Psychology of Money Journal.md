@@ -71,6 +71,49 @@ mindmap
 - Homework: For each overspend category, journal the context (who/what/feeling). Feed those notes to Blackrock weekly.
 - Next chapter (Luck & Risk) will evaluate how randomness (unexpected expenses, extra income) should be handled without emotional swings.
 
+### Key Ideas
+- No one’s crazy because everyone’s money lens comes from lived experience.
+- Budgets must accommodate feelings; numbers alone fail.
+- Narratives around categories make it easier to hold boundaries.
+
+### Mindset Shift
+- From “I messed up” to “What past story is this spend reenacting?”
+
+### Tools & Exercises
+- Ledger emotion tags.
+- Weekly empathy debrief: write one paragraph explaining a big spend without judgment.
+
+### Habits to Add / Remove
+- Add: Friday “story sync” with Blackrock before changing caps.
+- Remove: Copy-pasting influencer budgets that lack personal context.
+
+### Quotes
+> “No one’s crazy; people’s decisions make sense to them.”
+
+### Insights
+- When Joyful spend is tagged with intent, trimming doesn’t feel like punishment.
+
+### 30-Day Plan
+| Week | Focus | Proof |
+| --- | --- | --- |
+| 1 | Tag emotions for all discretionary spends | Ledger export |
+| 2 | Rewrite narratives for top 3 categories | Journal entry |
+| 3 | Adjust caps with empathy notes | Screenshot of Budget Plan |
+| 4 | Share lessons with Blackrock weekly | Meeting note |
+
+### Weekly Tracker
+| Week | Emotion-tag compliance | Notes |
+| --- | --- | --- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+
+### Review
+- Wins: Drinks + healthcare guardrails tightened without resentment.
+- Friction: Transfers still emotional—need pause script.
+- Carry-forward: Bring empathy notes into Luck/Risk tagging.
+
 ---
 
 ## Chapter 2 — Luck & Risk
@@ -108,6 +151,50 @@ You and Blackrock are co-pilots of a two-dial dashboard: **Luck** (tailwinds lik
 - Keep reinforcing: “Skill is what you control; outcomes mix skill + variance.”
 - Share the tagged ledger with Blackrock every Friday so the agent can recalibrate caps if risk runs >20% of income.
 - Next chapter will examine “Never Enough,” so gather notes on where abundance still feels scarce (gadgets, gifts, lifestyle creep).
+
+### Key Ideas
+- Outcomes blend skill with randomness; respect both.
+- Margin of safety calms nerves during spikes/dips.
+- Pre-committed rules (60/40 split) beat emotional decisions.
+
+### Mindset Shift
+- From “windfalls mean treat yourself” to “windfalls fill mission buckets.”
+
+### Tools & Exercises
+- Luck/Risk tagging prompt built into ledger template.
+- Weekly scenario drill: “If I lost ₹10k today, what buffer covers it?”
+
+### Habits to Add / Remove
+- Add: Buffer status check before discretionary transfers.
+- Remove: Letting windfalls sit in checking untagged.
+
+### Quotes
+> “Nothing is as good or as bad as it seems.”
+
+### Insights
+- Dedicated health buffer removed guilt around medical spends.
+- Seeing luck count vs risk count highlights when complacency creeps in.
+
+### 30-Day Plan
+| Week | Focus | Proof |
+| --- | --- | --- |
+| 1 | Implement Luck/Risk tagging | Ledger screenshot |
+| 2 | Build ₹10k rapid buffer | Bank snapshot |
+| 3 | Refill buffer after any dip | Transfer confirmation |
+| 4 | Review tagging stats with Chris/Blackrock | Meeting notes |
+
+### Weekly Tracker
+| Week | Buffer level | Luck events | Risk events | Notes |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+
+### Review
+- Wins: Windfall split executed twice with zero friction.
+- Friction: Tagging while on calls still tough—set Siri shortcut.
+- Carry-forward: Prep data for “Never Enough” cravings.
 
 ---
 
@@ -174,3 +261,24 @@ Keeping this narrative live inside the Psychology journal ensures Blackrock’s 
 | Day 4323 | Freedom Runway Plan signed off (2-yr buffer, multi-income) | Combined agent report (Chris summary, Blackrock numbers, Jarvis pipeline) |
 
 This blueprint lets Chris keep Chapter 2 alive daily while Blackrock handles the math and Jarvis supplies scalable ideas—ensuring the Defender + House dream folds into a 10× life by 40 without derailing current identity systems.
+
+## Templates for Future Chapters
+
+### Chapter X — {{Title}}
+- **Hero Narrative**:
+- **Core Summary (3 bullets)**:
+- **Workflow Integration**:
+- **Real-Time Action Plan**:
+- **Chris + Blackrock Notes**:
+- **Real-Time Narrative**:
+- **Key Ideas**:
+- **Mindset Shift**:
+- **Tools & Exercises**:
+- **Habits to Add / Remove**:
+- **Quotes**:
+- **Insights**:
+- **30-Day Plan**:
+- **Weekly Tracker**:
+- **Review**:
+
+---
