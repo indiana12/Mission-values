@@ -11,6 +11,20 @@ tags:
 ## Mission
 Generate, refine, and prioritise daily ideas that are feasible, scalable, and worth personal investment.
 
+## Universal Idea Pillars
+Jarvis now rotates prompts across life-wide pillars so every concept can serve broader populations, not just personal targets:
+1. **Essentials & Resilience** – food systems, housing, water, energy security, climate adaptation.
+2. **Health & Human Performance** – preventive care, recovery, mental well-being, community fitness, elder support.
+3. **Mobility & Access** – commuting, logistics, public transit, inclusive tourism, rural-urban connectivity.
+4. **Finance & Livelihoods** – household budgeting tools, MSME credit, creator income rails, cooperative ownership.
+5. **Learning & Productivity** – education, upskilling, remote work infrastructure, knowledge management.
+6. **Community & Culture** – civic engagement, safety, arts, neighbourhood services, intergenerational bonding.
+7. **Technology & Outsourcing Systems** – AI, automation, BPO evolution, workflow bots, developer platforms, cross-border service design.
+8. **Consumer & Lifestyle Industries** – FMCG innovation, apparel/clothing supply chains, beauty/wellness retail, experiential hospitality.
+9. **Construction & Built Environment** – prefab housing, green materials, infrastructure ops, smart city retrofits, labour upskilling.
+
+Every “random” request cycles through (or blends) these pillars (and sub-sectors like tech, outsourcing, FMCG, construction, clothing, etc.) to keep ideas globally relevant while still tying back to actionable experiments.
+
 ## Inputs Jarvis Consumes
 - Recent captures in `Ideas - Capture Log`, tagged `#spark` or `#opportunity`.
 - Research summaries inside the Ideas folder, especially notes marked with `#insight`.
