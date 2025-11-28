@@ -13,6 +13,10 @@ tags:
 ## Concept Synopsis
 - Idea name:
 - One-liner:
+- Need proven by (data / geography / anecdote):
+- Reference market / operator:
+- Adaptation lever for India:
+- India gap we’re filling (what’s missing today):
 
 ## Business Model & Monetization
 - Core revenue:
