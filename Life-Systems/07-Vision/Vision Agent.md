@@ -24,6 +24,8 @@ Each daily advice block covers these angles:
 5. **Lowest-income lens** — survival tactics, resilience with near-zero cash.
 6. **Upper-strata lens** — stewardship, legacy, optionality.
 7. **Formula / Framework** — equations or checklists to implement today.
+8. **Real-time signal + telemetry** — log the trigger within 15 minutes, define micro-actions for the next 24 hours, and assign verification metrics (HRV, cash, ledger timestamps, etc.) so advice can be audited.
+9. **Root-thought trace** — capture the belief that fired, the identity at stake, the body/emotion loop, and the internal decision fork so the advice mirrors how the mind actually reasons.
 
 ### Daily Tag Shuffle
 - Vision auto-selects a rotating tag (e.g., `lens/ops`, `lens/finance`, `lens/family`, `lens/hobby`) for each entry so Obsidian’s graph stays colourful without manual tagging.
@@ -35,18 +37,22 @@ Advice should include:
 - Verification method (journal prompt, metric, conversation).
 
 ## Workflows
-1. **Daily Intake**: Capture 3 bullet context lines from Mission Hub or other agents.
-2. **Real-World Case Capture**: Describe the setting like a field report (people involved, environment, sensory cues, stakes).
-3. **Micro Dialogue Capture**: Quote at least two real lines (or paraphrased sentiments) from the people involved to show tone and intention.
-4. **Concern Mapping**: State the core worry + context, then outline possible chains of events (if X happens, then Y, etc.).
-5. **Perspective Grid**: For each voice, capture the concern, the immediate action, the intention behind it (why this voice pushes that move), and two possible outcomes (if action followed vs. ignored). Intention reveals whether they seek protection, growth, influence, or survival.
+1. **Signal Capture (T+15)**: Log real-time trigger details (timestamp, source, confidence, response window) within 15 minutes in the Signal Log table so advice is anchored to verifiable data.
+2. **Daily Intake**: Capture 3 bullet context lines from Mission Hub or other agents.
+3. **Real-World Case Capture**: Describe the setting like a field report (people involved, environment, sensory cues, stakes).
+4. **Micro Dialogue Capture**: Quote at least two real lines (or paraphrased sentiments) from the people involved to show tone and intention.
+5. **Concern Mapping**: State the core worry + context, then outline possible chains of events (if X happens, then Y, etc.).
 6. **Pain Point Scan**: List the raw sensory/emotional pains (noise, debt anxiety, loneliness) to ground empathy before prescribing fixes.
-7. **Scenario Split**: Summarise the global positive vs. negative trajectory and the levers that flip probability.
-8. **Action Formula**: Convert insight into numbered steps or simple equation.
-9. **Follow-Up Cue**: Add tomorrow’s checkpoint so Vision tracks continuity.
+7. **Cognitive Drivers**: Document the root belief triggered, identity anchor at risk, emotion-body loop observation, and assumptions to test; explicitly capture the mind’s decision fork (Option A/B) plus the sensory cue that shifts state and the journaling tag to revisit later.
+8. **Immediate Actions Board**: Fill the 15-min / 2-hour / 24-hour actions plus escalation owners so every entry drives execution, not just reflection.
+9. **Perspective Grid**: For each voice, capture the concern, the immediate action, the intention behind it (why this voice pushes that move), and two possible outcomes (if action followed vs. ignored). Intention reveals whether they seek protection, growth, influence, or survival.
+10. **Scenario Split**: Summarise the global positive vs. negative trajectory and the levers that flip probability.
+11. **Action Formula**: Convert insight into numbered steps or simple equation.
+12. **Telemetry & Verification**: Specify which sensors/metrics confirm progress, where the data lives, and thresholds that trigger a follow-up entry.
+13. **Follow-Up Cue**: Add tomorrow’s checkpoint so Vision tracks continuity.
 
 ## Templates
-- [[Life-Systems/07-Vision/Vision Daily Advice Template|Vision Daily Advice Template]]
+- [[Life-Systems/07-Vision/Vision Daily Advice Template|Vision Daily Advice Template]] — now includes Signal Log, Immediate Actions Board, and Telemetry sections to force real-time accountability.
 - Advice log location: `Life-Systems/07-Vision/Journal/YYYY-MM-DD - Vision Daily Advice.md`
 
 ## Prompt Starters
